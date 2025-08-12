@@ -86,25 +86,126 @@ border-radius: 20px;
 .first1{
   display: flex;
   flex-direction:row;
-border: 1px solid black;
-border-radius: 15px;
+  border-radius: 16px;
+  overflow: hidden; 
+  width: 410px;
+  font-family: sans-serif;
+
 }
 
 .word1{
   align-content: center;
-  background-color: blue;
-  width: 190px;
+  width: 290px;
   padding-left: 50px;
+  padding: 16px;
+  background-color: blue;
+  margin: 0;
 
 }
+
+
 
 
 .img1{
-  width: 200px;
+  width: 300px;
   height: 130px;
+
+  display: block;
 
 
 }
+
+
+
+.sec2{
+  display: flex;
+  flex-direction:row;
+  border-radius: 16px;
+  overflow: hidden; 
+  width: 410px;
+  font-family: sans-serif;
+
+}
+
+.word2{
+  align-content: center;
+  width: 190px;
+  padding-left: 50px;
+  padding: 16px;
+  background-color: blue;
+  margin: 0;
+
+}
+
+.img2{
+  width: 200px;
+  height: 130px;
+}
+
+
+.third3{
+  display: flex;
+  flex-direction:row;
+  border-radius: 16px;
+  overflow: hidden; 
+  width: 410px;
+  font-family: sans-serif;
+
+}
+
+.word3{
+  align-content: center;
+  width: 190px;
+  padding-left: 50px;
+  padding: 16px;
+  background-color: blue;
+  margin: 0;
+
+}
+
+.img3{
+  width: 200px;
+  height: 130px;
+}
+
+
+.all{
+  display: flex;
+  flex-direction: row;
+justify-content: space-between;
+margin-top:50px;
+}
+
+.image1{
+
+  width:235px;
+  height: 300px;
+  border-radius: 30px;
+
+}
+
+.photoSec1{
+  display: flex;
+  flex-direction: row;
+gap: 20px;
+  
+}
+
+
+.image6{
+  width:297px;
+  height:300px;
+  border-radius: 30px;
+
+}
+
+.photoSec2{
+  display: flex;
+  flex-direction: row;
+gap: 20px;
+  
+}
+
 
 
 
