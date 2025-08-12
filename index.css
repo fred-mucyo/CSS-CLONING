@@ -14,12 +14,16 @@
 }  
 
 .hero-section {
+ 
   background-image: url(back1.jpeg);
   width: 100%;
   height: 600px;
 }
 .hero-word{
-color: red;
+ color:none;
+display: absolute;
+margin-top: 40px;
+
 
         } 
 
